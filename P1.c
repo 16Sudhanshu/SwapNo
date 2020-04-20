@@ -6,5 +6,5 @@ void main()
 	a+=b;//a=110
 	b=a-b;//b=19
 	a-=b;//a=91
-	printf("Now the numbers become: a=%d,b=%d",a,b);//New valus
+	printf("Now the numbers become: a=%d,b=%d",a,b);//New value
 }
